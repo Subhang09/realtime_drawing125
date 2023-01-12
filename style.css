@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px silver;
+}
+
+.NOTE{
+    font-size: 16px;
+    color: black;
+}
+
+.copyright{
+    position: fixed;
+    background-color: darkslategrey;
+    color: antiquewhite;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px gold;
+}
